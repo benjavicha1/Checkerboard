@@ -4,6 +4,7 @@ I think I did well on this assignment since the result is as intended and simila
 
 ---
 2. How well did you understand the programming concepts and foundational knowledge needed to complete the challenge?
+
 I've some experienced about OOP concept from OO class many years ago. However, I need to brush up my OO concept again since I hadn't been working with it for awhile. So, I bit of review helps me refamilize with the concept and I even understand some of the concepts I missed more than before. 
 
 ---
