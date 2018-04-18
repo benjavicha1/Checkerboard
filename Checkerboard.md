@@ -1,5 +1,7 @@
 1. Reflect on (think about) the work you did for the challenge. How did you do? What did you get right? What did you get wrong? What did you do differently (and possibly better) than what was posted in the solution? What was hard to do?
----
+```sh
+hi
+```
 
 2. How well did you understand the programming concepts and foundational knowledge needed to complete the challenge?
 
